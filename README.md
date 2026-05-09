@@ -14,6 +14,12 @@ Como estudiante de Inteligencia Artificial en ITLA, entiendo que los LLMs son po
 - **SPARQL** para queries dinámicas.
 - **Notion API** para integración de flujos de trabajo.
 
+## 📥 Instalación y Uso
+
+```bash
+git clone [https://github.com/MoisesRAlvarez/hermes-ontology-manager.git](https://github.com/MoisesRAlvarez/hermes-ontology-manager.git)
+cd hermes-ontology-manager
+
 ## 📈 Valor Profesional
 Este proyecto demuestra mi capacidad para diseñar arquitecturas de datos complejas, uniendo la flexibilidad de la IA con la rigidez necesaria de las bases de datos semánticas. Ideal para sistemas de RAG (Retrieval-Augmented Generation) avanzados.
 
